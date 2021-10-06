@@ -1,0 +1,7 @@
+#surefire_0
+#Sat Sep 18 13:51:09 ICT 2021
+basedir=C\:\\Users\\ASUS\\eclipse-workspace\\august2021
+surefire.suiteXmlFiles=APISuite.xml
+user.dir=C\:\\Users\\ASUS\\eclipse-workspace\\august2021
+env=prod
+localRepository=C\:\\Users\\ASUS\\.m2\\repository

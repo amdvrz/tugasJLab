@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="methods" name="Suite">
+  <test thread-count="2" parallel="methods" name="Test">
+    <classes>
+      <class name="qaautomation.august2021.AppTest"/>
+      <class name="qaautomation.august2021.FailedTest"/>
+      <class name="qaautomation.august2021.SwitchTest"/>
+      <class name="qaautomation.august2021.SwitchWindow"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
